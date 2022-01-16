@@ -9,3 +9,5 @@ This repository contains the necessary files to utilize GitHub Pages. GitHub Pag
 The link below displays a webpage of the data in a formatted bar chart.
 
 https://ewaszy.github.io/plotlydiploy/
+
+![image](https://user-images.githubusercontent.com/84869167/149680203-b0815e6e-b5db-4106-95c5-2c820a9114d1.png)
